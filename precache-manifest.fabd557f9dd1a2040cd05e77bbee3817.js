@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f9f8a9511de62733208d123cf9bde69",
+    "revision": "0860d8d07439712dcc0793cba6b0166a",
     "url": "/tip-calculator/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tip-calculator/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "d52933b86801762029a1",
-    "url": "/tip-calculator/static/css/main.60587bd2.chunk.css"
+    "revision": "acef7f4f3e436e7377dc",
+    "url": "/tip-calculator/static/css/main.742a3d87.chunk.css"
   },
   {
     "revision": "439dd5cf262bd39253c3",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tip-calculator/static/js/2.8bb875cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d52933b86801762029a1",
+    "revision": "acef7f4f3e436e7377dc",
     "url": "/tip-calculator/static/js/main.a4199828.chunk.js"
   },
   {
