@@ -1,4 +1,4 @@
-# Tip Calculator
+# Simple Tip Calculator
 
 Have you ever gone out for food with a group of friends and when it came time to pay the restaurant only gives you one bill. 
 Now you and your friends have to figure out how much each person has to chip in for the bill?
